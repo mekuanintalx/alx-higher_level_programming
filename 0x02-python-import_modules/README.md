@@ -1,3 +1,2 @@
-This is Alx project on how to import modules
+## 0x02. Python - import & modules
 
-#mekuanint legese
